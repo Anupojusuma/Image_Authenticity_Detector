@@ -1,0 +1,6 @@
+streamlit
+exifread
+pandas
+numpy
+opencv-python
+pillow
